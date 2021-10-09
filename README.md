@@ -148,3 +148,9 @@ Now you can open up your scene. Go to Content Browser > View Options > Show Plug
 Create a Render Target Asset and link it to the newly created PCSceneCaptureComponent2D.
 
 Off you go.
+
+Ways to extend this plugin:
+
+I would like to be able to configure the window within the editor before it is opened. So more sophistication has to be added: one way to do it:
+
+https://forums.unrealengine.com/t/how-to-make-a-dockable-tab-in-a-plugin-also-hamads-plugin-corrected-unreal-4-7-0/20524
